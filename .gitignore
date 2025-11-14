@@ -1,6 +1,8 @@
 is_cat_test/
 secrets/
 venv/
+data/
+dev/
 *.csv
 *.pkl
 *.jpeg
